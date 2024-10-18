@@ -1,0 +1,6 @@
+appId: com.example.perplexity
+productName: Perplexity
+directories:
+  output: dist
+win:
+  target: nsis
