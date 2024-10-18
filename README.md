@@ -26,3 +26,5 @@ Run `npm audit` for details."
 do what it says: run "npm audit fix --force")
 
 Also i provided the icon so you can, you know, have an icon for the shortcut.
+
+# And yes, you can log-in with your Google account, and probably with the rest of them too(i tested only the Google account)
