@@ -1,12 +1,19 @@
 # Ask-perplexity
 
-If you want to make the app open with a command and not as an exe, download the files in the main folder and make a shortcut:
+
+# Running without building the app
+Open the root directory of the project in cmd.
+> run "npm install".
+> close the cmd(if there are no issues. if there are, just write "npm audit fix --force" in the cmd and press enter.
+>
+
+Now, make a shortcut:
 > The target: C:\Windows\System32\cmd.exe /c npm start
 
 > Start in: "{the location of the folder with the all the files of this project}"
 
 
-I found it faster to open it like that, for some reason the exe was taking a bit longer to start. Also, dont forget to change it so that it's minimized.
+I found it faster to open it like that, for some reason the exe was taking a bit longer to start. Also, dont forget to change it so that it starts minimized, because then the cmd window will be seen and that just pointless :). You can also change the icon for the shortcut.
 
 
 # To build this thing:
